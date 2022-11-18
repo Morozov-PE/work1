@@ -4,7 +4,7 @@ import com.example.myapplication.Herbivores
 import com.example.myapplication.Predator
 
 fun main() {
-
+    // КОММЕНТ
     val herbivores1 = Herbivores("Свинья")
     val herbivores2 = Herbivores("Лошадь")
 
